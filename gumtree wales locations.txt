@@ -1,0 +1,571 @@
+Blaenau Gwent
+Abertillery, Blaenau Gwent
+
+Ebbw Vale, Blaenau Gwent
+
+Tredegar, Blaenau Gwent
+
+
+Bridgend
+Brackla, Bridgend
+
+Maesteg, Bridgend
+
+North Cornelly, Bridgend
+
+Pencoed, Bridgend
+
+Porthcawl, Bridgend
+
+
+Caerphilly
+Bargoed, Caerphilly
+
+Bedwas, Caerphilly
+
+Blackwood, Caerphilly
+
+Hengoed, Caerphilly
+
+Machen, Caerphilly
+
+New Tredegar, Caerphilly
+
+
+
+Cardiff
+Adamsdown, Cardiff
+
+Albany Road, Cardiff
+
+Atlantic Wharf, Cardiff
+
+Birchgrove, Cardiff
+
+Butetown, Cardiff
+
+Caerau, Cardiff
+
+Canton, Cardiff
+
+Cardiff Bay, Cardiff
+
+Cardiff City Centre, Cardiff
+
+Cathays, Cardiff
+
+Culverhouse Cross, Cardiff
+
+Cyncoed, Cardiff
+
+Danescourt, Cardiff
+
+Ely, Cardiff
+
+Fairwater, Cardiff
+
+Gabalfa, Cardiff
+
+Grangetown, Cardiff
+
+Heath, Cardiff
+
+Lakeside, Cardiff
+
+Leckwith, Cardiff
+
+Lisvane, Cardiff
+
+Llandaff North, Cardiff
+
+Llandaff, Cardiff
+
+Llandough, Cardiff
+
+Llanedeyrn, Cardiff
+
+Llanishen, Cardiff
+
+Llanrumney, Cardiff
+
+Maindy, Cardiff
+
+Marshfield, Cardiff
+
+Mynachdy, Cardiff
+
+Newport Road, Cardiff
+
+Old St Mellons, Cardiff
+
+Pengam Green, Cardiff
+
+Pentwyn, Cardiff
+
+Penylan, Cardiff
+
+Pontcanna, Cardiff
+
+Pontprennau, Cardiff
+
+Radyr, Cardiff
+
+Rhiwbina, Cardiff
+
+Riverside, Cardiff
+
+Roath Park, Cardiff
+
+Roath, Cardiff
+
+Rumney, Cardiff
+
+Splott, Cardiff
+
+St Fagans, Cardiff
+
+St Mellons, Cardiff
+
+Thornhill, Cardiff
+
+Tremorfa, Cardiff
+
+Victoria Park, Cardiff
+
+Whitchurch, Cardiff
+
+Whitchurch, Cardiff
+
+
+
+Carmarthenshire
+Ammanford, Carmarthenshire
+
+Burry Port, Carmarthenshire
+
+Carmarthen, Carmarthenshire
+
+Ferryside, Carmarthenshire
+
+Kidwelly, Carmarthenshire
+
+Llandeilo, Carmarthenshire
+
+Llandovery, Carmarthenshire
+
+Llanelli, Carmarthenshire
+
+Llangadog, Carmarthenshire
+
+Llanwrda, Carmarthenshire
+
+Llanybydder, Carmarthenshire
+
+Newcastle Emlyn, Carmarthenshire
+
+Pencader, Carmarthenshire
+
+Whitland, Carmarthenshire
+
+
+
+Ceredigion
+Aberaeron, Ceredigion
+
+Aberystwyth, Ceredigion
+
+Borth, Ceredigion
+
+Bow Street, Ceredigion
+
+Cardigan, Ceredigion
+
+Lampeter, Ceredigion
+
+Llanarth, Ceredigion
+
+Llandysul, Ceredigion
+
+Llanon, Ceredigion
+
+Llanrhystud, Ceredigion
+
+New Quay, Ceredigion
+
+Talybont, Ceredigion
+
+Tregaron, Ceredigion
+
+Ystrad Meurig, Ceredigion
+
+
+
+Conwy
+Abergele, Conwy
+
+Betws-y-Coed, Conwy
+
+Colwyn Bay, Conwy
+
+Deganwy, Conwy
+
+Dolwyddelan, Conwy
+
+Llandudno Junction, Conwy
+
+Llandudno, Conwy
+
+Llanfairfechan, Conwy
+
+Llanrwst, Conwy
+
+Penmaenmawr, Conwy
+
+Trefriw, Conwy
+
+
+
+Denbighshire
+Corwen, Denbighshire
+
+Denbigh, Denbighshire
+
+Llangollen, Denbighshire
+
+Prestatyn, Denbighshire
+
+Rhyl, Denbighshire
+
+Ruthin, Denbighshire
+
+St Asaph, Denbighshire
+
+
+
+Flintshire
+Bagillt, Flintshire
+
+Buckley, Flintshire
+
+Deeside, Flintshire
+
+Flint, Flintshire
+
+Holywell, Flintshire
+
+Mold, Flintshire
+
+
+
+Gwynedd
+Aberdovey, Gwynedd
+
+Arthog, Gwynedd
+
+Bala, Gwynedd
+
+Bangor, Gwynedd
+
+Barmouth, Gwynedd
+
+Blaenau Ffestiniog, Gwynedd
+
+Caernarfon, Gwynedd
+
+Criccieth, Gwynedd
+
+Dolgellau, Gwynedd
+
+Dyffryn Ardudwy, Gwynedd
+
+Fairbourne, Gwynedd
+
+Garndolbenmaen, Gwynedd
+
+Harlech, Gwynedd
+
+Llanbedr, Gwynedd
+
+Llwyngwril, Gwynedd
+
+Penrhyndeudraeth, Gwynedd
+
+Porthmadog, Gwynedd
+
+Pwllheli, Gwynedd
+
+Talsarnau, Gwynedd
+
+Talybont, Gwynedd
+
+Tywyn, Gwynedd
+
+Y Felinheli, Gwynedd
+
+
+Isle of Anglesey
+Amlwch, Isle of Anglesey
+
+Beaumaris, Isle of Anglesey
+
+Bodorgan, Isle of Anglesey
+
+Brynteg, Isle of Anglesey
+
+Cemaes Bay, Isle of Anglesey
+
+Dulas, Isle of Anglesey
+
+Gaerwen, Isle of Anglesey
+
+Holyhead, Isle of Anglesey
+
+Llanbedrgoch, Isle of Anglesey
+
+Llanfairpwllgwyngyll, Isle of Anglesey
+
+Llangefni, Isle of Anglesey
+
+Llannerch-y-Medd, Isle of Anglesey
+
+Marianglas, Isle of Anglesey
+
+Menai Bridge, Isle of Anglesey
+
+Moelfre, Isle of Anglesey
+
+Pentraeth, Isle of Anglesey
+
+Penysarn, Isle of Anglesey
+
+Rhosgoch, Isle of Anglesey
+
+Rhosneigr, Isle of Anglesey
+
+Ty Croes, Isle of Anglesey
+
+Tyn-y-Gongl, Isle of Anglesey
+
+
+
+Merthyr Tydfil
+Dowlais, Merthyr Tydfil
+
+Treharris, Merthyr Tydfil
+
+Troedyrhiw, Merthyr Tydfil
+
+
+
+Monmouthshire
+Abergavenny, Monmouthshire
+
+Caldicot, Monmouthshire
+
+Chepstow, Monmouthshire
+
+Monmouth, Monmouthshire
+
+Usk, Monmouthshire
+
+
+
+
+Neath Port Talbot
+Neath, Neath Port Talbot
+
+Port Talbot, Neath Port Talbot
+
+
+
+Newport
+Bassaleg, Newport
+
+Bettws, Newport
+
+Caerleon, Newport
+
+Newbridge, Newport
+
+Risca, Newport
+
+Rogerstone, Newport
+
+
+
+Pembrokeshire
+Boncath, Pembrokeshire
+
+Clarbeston Road, Pembrokeshire
+
+Clynderwen, Pembrokeshire
+
+Crymych, Pembrokeshire
+
+Fishguard, Pembrokeshire
+
+Glogue, Pembrokeshire
+
+Goodwick, Pembrokeshire
+
+Haverfordwest, Pembrokeshire
+
+Kilgetty, Pembrokeshire
+
+Llanfyrnach, Pembrokeshire
+
+Milford Haven, Pembrokeshire
+
+Narberth, Pembrokeshire
+
+Pembroke Dock, Pembrokeshire
+
+Pembroke, Pembrokeshire
+
+Saundersfoot, Pembrokeshire
+
+Tenby, Pembrokeshire
+
+
+
+Powys
+Brecon, Powys
+
+Builth Wells, Powys
+
+Caersws, Powys
+
+Crickhowell, Powys
+
+Knighton, Powys
+
+Llanbrynmair, Powys
+
+Llandinam, Powys
+
+Llandrindod Wells, Powys
+
+Llanfechain, Powys
+
+Llanfyllin, Powys
+
+Llangammarch Wells, Powys
+
+Llanidloes, Powys
+
+Llansanffraid, Powys
+
+Llanwrtyd Wells, Powys
+
+Llanymynech, Powys
+
+Machynlleth, Powys
+
+Meifod, Powys
+
+Montgomery, Powys
+
+Newtown, Powys
+
+Presteigne, Powys
+
+Rhayader, Powys
+
+Welshpool, Powys
+
+
+
+
+Rhondda Cynon Taf
+Aberdare, Rhondda Cynon Taf
+
+Ferndale, Rhondda Cynon Taf
+
+Mountain Ash, Rhondda Cynon Taf
+
+Pentre, Rhondda Cynon Taf
+
+Pontyclun, Rhondda Cynon Taf
+
+Pontypridd, Rhondda Cynon Taf
+
+Porth, Rhondda Cynon Taf
+
+Tonypandy, Rhondda Cynon Taf
+
+Treorchy, Rhondda Cynon Taf
+
+
+Swansea
+Birchgrove, Swansea
+
+Clydach, Swansea
+
+Fforestfach, Swansea
+
+Gorseinon, Swansea
+
+Gowerton, Swansea
+
+Llansamlet, Swansea
+
+Loughor, Swansea
+
+Morriston, Swansea
+
+Mumbles, Swansea
+
+Penlan, Swansea
+
+Pontardawe, Swansea
+
+Pontarddulais, Swansea
+
+Sketty, Swansea
+
+West Cross, Swansea
+
+Ystradgynlais, Swansea
+
+
+
+
+Torfaen
+Cwmbran, Torfaen
+
+Pontypool, Torfaen
+
+
+
+
+Vale of Glamorgan
+Barry, Vale of Glamorgan
+
+Cowbridge, Vale of Glamorgan
+
+Dinas Powys, Vale of Glamorgan
+
+Llantwit Major, Vale of Glamorgan
+
+Penarth, Vale of Glamorgan
+
+
+
+Wrexham
+Acrefair, Wrexham
+
+Chirk, Wrexham
+
+Coedpoeth, Wrexham
+
+Gresford, Wrexham
+
+Gwersyllt, Wrexham
+
+Llay, Wrexham
+
+Rhosllanerchrugog, Wrexham
+
+Ruabon, Wrexham
+
+
